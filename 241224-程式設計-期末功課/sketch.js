@@ -93,7 +93,7 @@ function draw() {
   fill(0);
   textSize(32);
   textAlign(CENTER, CENTER);
-  text("TKUED", width / 2, height / 4);
+  text("TKUET", width / 2, height / 4);
   textSize(20);
   text("玩家一遊戲操作方式： " ,125, 80);
   text("W - 上移",  110, 100);
